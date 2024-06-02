@@ -14,8 +14,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Cloning the Repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/dogsbreed-challenge.git
+cd dogsbreed-challenge
 ```
 ## Building the Docker Image
 Build the Docker image for the project:
