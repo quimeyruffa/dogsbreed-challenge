@@ -34,3 +34,6 @@ To run the tests, use the following command:
 ```
 docker-compose run test
 ```
+## Version Information
+
+This project uses npm version 10.7.0.
