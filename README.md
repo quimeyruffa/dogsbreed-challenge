@@ -36,4 +36,4 @@ docker-compose run test
 ```
 ## Version Information
 
-This project uses npm version 10.7.0.
+This project uses npm version 10.8.1
