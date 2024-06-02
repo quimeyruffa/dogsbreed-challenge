@@ -1,6 +1,6 @@
-# Next.js Project with Docker
+# Dog's Breed
 
-This is a Next.js project configured to run in a Docker container. It includes configurations for development and testing environments.
+This is a project configured to run in a Docker container. It includes configurations for development and testing environments.
 
 ## Prerequisites
 
